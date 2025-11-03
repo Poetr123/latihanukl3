@@ -19,8 +19,6 @@ Hasil akhirnya bakal nunjukin volume tabung dalam satuan **cm^3**, jadi udah lan
 3. Fungsi ngitung hasilnya pakai rumus tabung.  
 4. Hasilnya dikirim balik ke `main()` terus ditampilin di layar.  
 
-Simpel banget, tapi udah nerapin konsep **fungsi dengan parameter**, jadi nggak semua kode numpuk di `main()`.
-
 ---
 
 ## 📷 Contoh Hasil Program
